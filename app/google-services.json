@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "959057853813",
+    "firebase_url": "https://beverage-please.firebaseio.com",
+    "project_id": "beverage-please",
+    "storage_bucket": "beverage-please.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959057853813:android:759d8861d296ed3cb2e73c",
+        "android_client_info": {
+          "package_name": "com.example.serviceplease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959057853813-j70c9spm28ct492b6f03j4tvv3ccs43n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.serviceplease",
+            "certificate_hash": "06554b004478239712fcfb02bdbee553f166a1ce"
+          }
+        },
+        {
+          "client_id": "959057853813-abooe9ljoa78kpi74fmjqj85omqmo73l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl3aZwtX-dFbhmGw9MWcY7zIBU_IPhmYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959057853813-abooe9ljoa78kpi74fmjqj85omqmo73l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

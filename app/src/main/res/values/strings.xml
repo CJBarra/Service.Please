@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Service Please</string>
+    <string name="register_to_app">Not a member? Register Today</string>
+    <string name="pwd_recover">Forgot your password?</string>
+    <string name="login_string">Log in</string>
+    <string name="password_string">Password</string>
+    <string name="confirmPwd_string">Confirm Password</string>
+    <string name="email_string">Email</string>
+    <string name="member_login_string">Already a member? Log in</string>
+    <string name="register_string">Register</string>
+    <string name="placeholder_short">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="placeholder_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor massa, viverra a dignissim vitae, consectetur vitae erat. Maecenas ac volutpat lorem. Praesent sem felis, viverra eget finibus sed, vestibulum in diam. Nulla turpis justo, sagittis a augue a, pellentesque consectetur ligula. Nulla faucibus rutrum lectus a efficitur. Pellentesque at porttitor erat, eleifend sagittis lectus. Sed porttitor nec risus nec lobortis. Praesent pulvinar porttitor lorem nec aliquam.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="signed_out">Signed out (test)</string>
+    <string name="item_name_placeholder">Placeholder Item Name: </string>
+    <string name="search_for_recipes">Search for Recipes</string>
+    <string name="item_name">Name</string>
+    <string name="item_categories">Categories</string>
+    <string name="category_type_images">category type images</string>
+    <string name="category">Category</string>
+    <string name="loading_dotdot">...</string>
+    <string name="country">Country</string>
+    <string name="instructions">Instructions</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="youtube">YouTube</string>
+    <string name="meal_instructions_panel">Meal Instructions Panel</string>
+    <string name="source">Source</string>
+    <string name="favourite_the_meal">Favourite the meal</string>
+    <string name="image_for_meal">image for meal</string>
+</resources>
